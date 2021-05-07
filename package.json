@@ -1,0 +1,14 @@
+{
+  "name": "pogo-storage",
+  "version": "1.0.0",
+  "description": "Store and generate stuff to aid your PoGO collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Kataryniak",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
